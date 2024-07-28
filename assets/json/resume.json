@@ -1,11 +1,8 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "name": "Wonseo Choi",
+    "label": "AI Data Engineer",
+    "email": "1202won@gmail.com",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -22,118 +19,135 @@
       }
     ]
   },
+
+
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "LG Display",
+      "position": "Big Data Engineer/Analysist",
+      "url": "https://www.lgdisplay.com/",
+      "startDate": "2024-03",
+      "endDate": "",
+      "summary": "Big Data Engineering & Analysis",
+      "highlights": ["Improve yield through big data analyzing"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Catholic Univ. of Korea Yeouido ST.Mary’s Hospital",
+      "position": "Research Intern",
+      "url": "https://cici.cmc.or.kr/contents/bigdata_introduce",
+      "startDate": "2021-02",
+      "endDate": "2020-08",
+      "summary": "Vision & Text Big Data Processing (ML/DL)",
+      "highlights": ["Developed an automated system to extract test results from image-based result sheets using Big Data Processing techniques for AI applications", "Conducted experiments and implemented a research paper focusing on domain adaptation through the application of Generative Adversarial Networks (GANs)"]
+    },
+    {
+      "name": "KIST Europe",
+      "position": "Research Intern",
+      "url": "https://www.kist-europe.de/",
+      "startDate": "2020-02",
+      "endDate": "2020-07",
+      "summary": "Bio Vision Data Processing (DL)",
+      "highlights": ["Developed an automated system to acquire experimental data, enabling the calculation of heart rate by analyzing variations in the size of heart images across different frames", "Improved cell tracking performance by focusing on the enhancement of the U-Net layer, analyzing and optimizing the Localization component responsible for accurate cell tracking"]
     }
   ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "institution": "Hanyang University",
+      "location": "Seoul, Republic of Korea",
+      "url": "http://electronic.hanyang.ac.kr/",
+      "area": "Electronic Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2022-03",
+      "endDate": "2024-02",
+      "courses": ["AI for Network/Embedded Systems", "Modeling/Simulation of Cyber-Physical Systems"]
+    },
+    {
+      "institution": "Hanyang University",
+      "location": "Seoul, Republic of Korea",
+      "url": "http://ebe.hanyang.ac.kr",
+      "area": "Electric Engineering / minor: Electronic Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-03",
+      "endDate": "2022-02",
       "courses": ["Theory of Relativity"]
     }
   ],
+
+  "experience": [
+    {
+      "name": "3D Vision Lab",
+      "position": "Undergraduate internship",
+      "startDate": "2021-08",
+      "endDate": "2021-07",
+      "summary": "Object Detection for 3D Computer Vision",
+      "highlights": ["Experience in Data Cleaning and Preparation for 3D Detection Projects Using Matterport"]
+    },
+    {
+      "name": "SPA Lab",
+      "position": "Undergraduate internship",
+      "startDate": "2019-03",
+      "endDate": "2020-02",
+      "summary": "Object Detection for Computer Vision",
+      "highlights": ["Deep Learning Object Detection - Self driving Car"]
+    }
+  ],
+
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Academic Excellence Award",
+      "date": "2022-02",
+      "awarder": "Hanyang University",
+      "summary": "Recipient of the Academic Excellence Award for outstanding academic performance."
+    }
+    ,{
+      "title": "HY-Running Pace Maker Poster Award",
+      "date": "2022-01",
+      "awarder": "Hanyang University",
+      "summary": "Encouragement Award in the Running Pacemaker Poster Category."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Enhanced Wi-Fi Access Point Positioning using Hexagonal CNN with Mobile Data and Urban Information",
+      "publisher": "IEEE Internet of Things Journal",
+      "summary": "W. Choi et al.",
+      "releaseDate": "2024-07-22",
+      "url": "https://ieeexplore.ieee.org/document/10605903"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Deep Learning-Based Path Loss Prediction for Fifth-Generation New Radio Vehicle Communications",
+      "publisher": "IEEE Access",
+      "summary": "S. Sung, *W. Choi*, H. Kim and J. -I. Jung",
+      "releaseDate": "2023-07-20",
+      "url": "https://ieeexplore.ieee.org/document/10188816"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Enhanced Wi-Fi Access Point Positioning using Hexagonal CNN with Mobile Data and Urban Information",
+      "publisher": "Journal of Computational Design and Engineering",
+      "summary": "Suh, S., Cheon, S., *Choi, W.*, Chung, Y. W., Cho, W. K., Paik, J. S., ... & Lee, Y. O.",
+      "releaseDate": "2022-04-19",
+      "url": "https://academic.oup.com/jcde/article/9/2/783/6570458"
+    },
+    {
+      "name": "Semi-AI and Full-AI digitizer: the ways to digitalize visual field big data",
+      "publisher": "Computer Methods and Programs in Biomedicine",
+      "summary": "Kim, T. M., *Choi, W.*, Choi, I. Y., Park, S. J., Yoon, K. H., & Chang, D. J.",
+      "releaseDate": "2021-05-26",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016926072100242X"
     }
   ],
+
+  "conference": [
+    {
+      "name": "Attention-aware Unit toward the interpretability of single cell segmentatio",
+      "summary": "Wonseo Choi, Yongoh Lee",
+      "publisher": "KCCV 2020 demo (Day 1)",
+      "releaseDate": "2020-08"
+    }
+  ],
+
   "skills": [
     {
       "name": "Physics",
@@ -166,12 +180,7 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Mechanics"
       ]
     }
   ],
@@ -189,12 +198,32 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "Untact-kiosk",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
+  ],
+
+  "Teaching-assistant": [
+    {
+      "name": "Probability & Statistics",
+      "level": "",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Generating Random Variables based on Probability distributions using MATLAB"
+      ]
+    },
+    {
+      "name": "Computer Network",
+      "level": "",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Basic Algorithm for Computer Network using MATLAB"
+      ]
+    }
   ]
+
 }

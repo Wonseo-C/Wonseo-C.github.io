@@ -1,114 +1,66 @@
----
----
 
-@string{aps = {American Physical Society,}}
+@ARTICLE{10605903,
+  author={Choi, Wonseo and Kim, Dongha and Sung, Sangmo and Han, Dohyung and Jo, Haeun and Choi, Dongwook and Jung, Jae-Il and Kim, Hokeun},
+  journal={IEEE Internet of Things Journal}, 
+  title={Enhanced Wi-Fi Access Point Positioning Using Hexagonal CNN With Mobile Data and Urban Information}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  abstract={Wi-Fi-based localization has many advantages for personal mobile devices as it works well indoors or in urban environments while consuming much less energy than GPSbased localization. The position of Wi-Fi access points (APs) is critical for the accuracy of Wi-Fi-based localization. However, the AP positions are often incorrect or unavailable, making it significantly challenging to use Wi-Fi-based localization for critical position-based services. In this paper, we propose novel techniques that significantly enhance the Wi-Fi AP positioning by leveraging daily-collected real-world mobile data collected from 6 million users over a month. The proposed approach, namely Hexa U-Net, includes novel data processing by incorporating the received signal strength indicator and urban information. We also propose a novel loss function called hex-loss to train the proposed Hexa U-Net. Our evaluation results show that the proposed approach achieves 25 times higher accuracy for the Wi-Fi AP positioning compared to the simple DNN-based approach and 2.1 times higher accuracy compared to the state-of-the-art square grid-based CNN.},
+  keywords={Wireless fidelity;Location awareness;Buildings;Mobile handsets;Received signal strength indicator;Accuracy;Global Positioning System;Localization;Wi-Fi;Mobile device;Access Point;Hexagonal CNN},
+  doi={10.1109/JIOT.2024.3431918},
+  ISSN={2327-4662},
+  month={},}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@ARTICLE{10188816,
+  author={Sung, Sangmo and Choi, Wonseo and Kim, Hokeun and Jung, Jae-Il},
+  journal={IEEE Access}, 
+  title={Deep Learning-Based Path Loss Prediction for Fifth-Generation New Radio Vehicle Communications}, 
+  year={2023},
+  volume={11},
+  number={},
+  pages={75295-75310},
+  abstract={Fifth-generation (5G) technology is rapidly spreading to vehicle-to-vehicle (V2V) communication, which requires high reliability, high data transmission rate, and low latency to meet service requirements through a new frequency band called millimeter wave (mmWave). However, mmWave bands are difficult to utilize in a dynamically changing vehicle environment because of the propagation attenuation against obstacles. Various studies are underway to predict the path loss in the mmWave band on roads with many obstacles. However, it is still challenging to accurately predict the path loss in various environments because the existing prediction models either generalize the path loss solely based on measurement data or only use specific parameters. Recently, investigations on artificial intelligence have been conducted using various techniques that are different from the existing heuristic methods. Following this trend, we propose a deep learning-based path loss prediction that considers obstacles on roads and weather conditions in V2V communication using mmWave. To consider the various environments affecting measurement, we constructed a realistic simulation environment and collected data that we used to train our deep learning models. Our proposed deep learning-based approach achieves accurate predictions for path loss.},
+  keywords={Millimeter wave communication;Meteorology;Loss measurement;Propagation losses;Predictive models;Data models;Neurons;Path planning;Deep learning;Neural networks;Weather forecasting;Condition monitoring;Path loss prediction;vehicle-to-vehicle communication (V2V);millimeter wave (mmWave);deep neural network (DNN);weather condition modeling},
+  doi={10.1109/ACCESS.2023.3297215},
+  ISSN={2169-3536},
+  month={},}
+
+@article{10.1093/jcde/qwac029,
+    author = {Suh, Sungho and Cheon, Sojeong and Choi, Wonseo and Chung, Yeon Woong and Cho, Won-Kyung and Paik, Ji-Sun and Kim, Sung Eun and Chang, Dong-Jin and Lee, Yong Oh},
+    title = "{Supervised segmentation with domain adaptation for small sampled orbital CT images}",
+    journal = {Journal of Computational Design and Engineering},
+    volume = {9},
+    number = {2},
+    pages = {783-792},
+    year = {2022},
+    month = {04},
+    abstract = "{Deep neural networks have been widely used for medical image analysis. However, the lack of access to a large-scale annotated dataset poses a great challenge, especially in the case of rare diseases or new domains for the research society. Transfer of pre-trained features from the relatively large dataset is a considerable solution. In this paper, we have explored supervised segmentation using domain adaptation for optic nerve and orbital tumour, when only small sampled CT images are given. Even the lung image database consortium image collection (LIDC-IDRI) is a cross-domain to orbital CT, but the proposed domain adaptation method improved the performance of attention U-Net for the segmentation in public optic nerve dataset and our clinical orbital tumour dataset by 3.7\\% and 13.7\\% in the Dice score, respectively. The code and dataset are available at https://github.com/cmcbigdata.}",
+    issn = {2288-5048},
+    doi = {10.1093/jcde/qwac029},
+    url = {https://doi.org/10.1093/jcde/qwac029},
+    eprint = {https://academic.oup.com/jcde/article-pdf/9/2/783/43394945/qwac029.pdf},
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@article{KIM2021106168,
+title = {Semi-AI and Full-AI digitizer: The ways to digitalize visual field big data},
+journal = {Computer Methods and Programs in Biomedicine},
+volume = {207},
+pages = {106168},
+year = {2021},
+issn = {0169-2607},
+doi = {https://doi.org/10.1016/j.cmpb.2021.106168},
+url = {https://www.sciencedirect.com/science/article/pii/S016926072100242X},
+author = {Tong Min Kim and Wonseo Choi and In-Young Choi and Sang Jun Park and Kun-Ho Yoon and Dong-Jin Chang},
+keywords = {Artificial intelligence, Deep learning, Image processing, Optical character recognition, Big data, Medical image, Visual field},
+abstract = {Background and objective
+Glaucoma is one of the major diseases that cause blindness, which is incurable and irreversible, and it is essential to detect glaucoma vision deficits in treatment and check the progression of vision disorders in advance. In order to minimize the risk of glaucoma, it is necessary not only to diagnose and observe glaucoma but also to predict prognosis via indicators from Visual Field (VF) tests. However, information from the VF test cannot be directly used in clinical studies because most medical institutions store VF test sheets in Portable Document Format (PDF) or image files in different standards.
+Methods
+We developed AI-based real-time VF big data digitizing systems that digitalize VF test images in real-time in two ways; Semi-AI and Full-AI digitizer. The Semi-AI digitizer detects the VF text area with actual coordinates derived from mouse handler system. Full-AI digitizer detects the VF text area with Faster Region Based Convolutional Neural Networks (RCNN). After detecting the text area, both systems extract texts with Recurrent Neural Network based Optical Character Recognition. Semi-AI and Full-AI digitizer post-processes the extracted text results with in-system algorithm and out-of-system algorithm, respectively.
+Results
+Both systems used 325,310 VF test sheets from a tertiary hospital and extracted a total of 5,530,270 texts. From the 100 randomly selected VF sheets, 3,400 texts were used for the validation. Semi-AI and Full-AI digitizer showed 0.993 and 0.983 of accuracy, respectively.
+Conclusion
+This study demonstrates the effectiveness of AI applications in detecting text areas and the different implementation methodologies of the post-processing process. In detecting text area, Semi-AI may be better than Full-AI digitizer in terms of system speed and human labor labeling if the number of types to be classified is small. However, Full-AI digitizer is recommended because it allows detecting text area regardless of resolution and size of the VF sheets, as the types of real-world VF test sheets cannot be predicted, and the types become more unpredictable when extended to multi-hospital studies. For Post-preprocessing, Semi-AI methodology is recommended because Semi-AI produced higher results with less effort and considered the convenience of researchers by implementing them as in-system.}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
-}

@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Wonseo-C
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Wonseo-C/undergraduate_project1
+  - Wonseo-C/undergraduate_project2
+  - Wonseo-C/AndroidProject
+  - Wonseo-C/MicroProcessor
+  
