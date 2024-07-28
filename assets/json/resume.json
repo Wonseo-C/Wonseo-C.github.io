@@ -3,14 +3,7 @@
     "name": "Wonseo Choi",
     "label": "AI Data Engineer",
     "email": "1202won@gmail.com",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "summary": "LAZY Developer & Striving for Beautiful Equation",
     "profiles": [
       {
         "network": "Twitter",
@@ -92,21 +85,6 @@
       "highlights": ["Deep Learning Object Detection - Self driving Car"]
     }
   ],
-
-  "awards": [
-    {
-      "title": "Academic Excellence Award",
-      "date": "2022-02",
-      "awarder": "Hanyang University",
-      "summary": "Recipient of the Academic Excellence Award for outstanding academic performance."
-    }
-    ,{
-      "title": "HY-Running Pace Maker Poster Award",
-      "date": "2022-01",
-      "awarder": "Hanyang University",
-      "summary": "Encouragement Award in the Running Pacemaker Poster Category."
-    }
-  ],
   
   "publications": [
     {
@@ -154,56 +132,124 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Mechanics"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Intermediate",
+      "icon": "fa-solid fa-language"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Data Science & Analysis",
+      "icon": "fa-solid fa-database"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "AI for Network/Embedded Systems",
+      "icon": "fa-solid fa-globe"
+    },
+    {
+      "name": "Math",
+      "icon": "fa-solid fa-infinity"
+    },
+    {
+      "name": "Simulation Lattice(Grid) Theory",
+      "icon": "fa-solid fa-border-all",
+      "keywords":["Specifying the shape of the observed grid."]
+    },
+
+    {
+      "name": "IoT Security",
+      "icon": "fa-solid fa-lock"
+    },
+    {
+      "name": "Metaverse",
+      "icon": "fa-solid fa-vr-cardboard"
+    },  
+    {
+      "name": "Cyber-Physical Systems",
+      "icon": "fa-solid fa-keyboard"
+    },
+    {
+      "name": "Block Chain",
+      "icon": "fa-solid fa-coins"
     }
+    
   ],
   "projects": [
     {
       "name": "Untact-kiosk",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "summary": "",
+      "highlights": ["Quantum Teleportation"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "url": "https://github.com/Wonseo-C/graduation"
+    },
+    {
+      "name": "Detect Kickboard with Embedded Hardware (Jetson Nano Board)",
+      "summary": "",
+      "highlights": ["Quantum Teleportation"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://github.com/Wonseo-C/undergraduate_project2"
+    },
+    {
+      "name": "Snake Game",
+      "summary": "",
+      "highlights": ["Quantum Teleportation"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://github.com/Wonseo-C/MicroProcessor"
+    },
+
+    {
+      "name": "IMU Sensor Fusion for Location Tracking using Kalman Filter (MCU Board)",
+      "summary": "",
+      "highlights": ["Quantum Teleportation"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": ""
+    },
+    {
+      "name": "Mutation support for Lingua Franca with implementing Savina Benchmark",
+      "summary": "",
+      "highlights": ["Quantum Teleportation"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://github.com/hyu-iot/lf_benchmark_choi"
+    },
+    {
+      "name": "Android App for Handwriting Number Recognition using Google ML Kit",
+      "summary": "",
+      "highlights": ["Quantum Teleportation"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://github.com/Wonseo-C/AndroidProject"
+    },
+    {
+      "name": "Apple Watch APP for Integrating UWB Technology and advanced medical data monitoring",
+      "summary": "",
+      "highlights": ["Quantum Teleportation"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": ""
+    },
+    {
+      "name": "Localizing System Design for UWB/IMU Tag",
+      "summary": "",
+      "highlights": ["Quantum Teleportation"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": ""
     }
   ],
 
@@ -223,6 +269,21 @@
       "keywords": [
         "Basic Algorithm for Computer Network using MATLAB"
       ]
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "Academic Excellence Award",
+      "date": "2022-02",
+      "awarder": "Hanyang University",
+      "summary": "Recipient of the Academic Excellence Award for outstanding academic performance."
+    }
+    ,{
+      "title": "HY-Running Pace Maker Poster Award",
+      "date": "2022-01",
+      "awarder": "Hanyang University",
+      "summary": "Encouragement Award in the Running Pacemaker Poster Category."
     }
   ]
 
