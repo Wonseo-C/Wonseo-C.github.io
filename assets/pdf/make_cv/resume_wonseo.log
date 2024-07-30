@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.19)  28 JUL 2024 21:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.19)  30 JUL 2024 22:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -183,14 +183,14 @@ File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
  (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
 Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
 )))
-LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-OsF on input line 47.
+LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-OsF on input line 48.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/ebgaramond/OT1EBGaramond-OsF.fd
 File: OT1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for OT1/EBGaramond-OsF.
 )
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <10.95> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 47.
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 47.
+(Font)              scaled to size 10.95pt on input line 48.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count266
@@ -198,26 +198,26 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 ) (./resume_wonseo.aux)
 \openout1 = `resume_wonseo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 47.
-LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 48.
+LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 48.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count267
@@ -274,63 +274,63 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 \c@mv@tabular=\count273
 \c@mv@boldtabular=\count274
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <20.74> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 47.
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 47.
+(Font)              scaled to size 20.74pt on input line 48.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <20.74> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 47.
+(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 20.74pt on input line 47.
+(Font)              scaled to size 20.74pt on input line 48.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 47--47
+Overfull \hbox (30.0pt too wide) in paragraph at lines 48--48
 [] 
  []
 
 <../../img/2.jpg, id=1, 807.015pt x 1077.02374pt>
 File: ../../img/2.jpg Graphic file (type jpg)
 <use ../../img/2.jpg>
-Package pdftex.def Info: ../../img/2.jpg  used on input line 51.
+Package pdftex.def Info: ../../img/2.jpg  used on input line 52.
 (pdftex.def)             Requested size: 151.76854pt x 202.54951pt.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 58.
+(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 59.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 58.
+(Font)              scaled to size 10.95pt on input line 59.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 61.
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 62.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 61.
+(Font)              scaled to size 10.95pt on input line 62.
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--66
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
+
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 76.
+(Font)              <10.95> on input line 77.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 76.
+(Font)              <8> on input line 77.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 76.
+(Font)              <6> on input line 77.
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../../img/2.jpg>]
 LaTeX Font Info:    Font shape `LUC/nanummj/b/n' in size <10.95> not available
-(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 173.
+(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 174.
  [2] [3] (./resume_wonseo.aux) ) 
 Here is how much of TeX's memory you used:
  4136 strings out of 478268
  71772 string characters out of 5846347
- 370651 words of memory out of 5000000
+ 370671 words of memory out of 5000000
  22273 multiletter control sequences out of 15000+600000
  480964 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,6n,76p,576b,272s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tsrvmb.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fc2mbn.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb>
-Output written on resume_wonseo.pdf (3 pages, 594151 bytes).
+Output written on resume_wonseo.pdf (3 pages, 594182 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
