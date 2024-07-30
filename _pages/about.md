@@ -19,3 +19,9 @@ social: true # includes social icons at the bottom of the page
 ---
 
 티모를 사랑하는 남자.
+
+인섹팬.
+
+INTP.
+
+귀살대 다람쥐.
