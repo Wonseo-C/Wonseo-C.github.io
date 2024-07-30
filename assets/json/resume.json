@@ -6,41 +6,10 @@
     "summary": "LAZY Developer & Striving for Beautiful Equation"
   },
 
-
-  "work": [
-    {
-      "name": "LG Display",
-      "position": "Big Data Engineer/Analysist",
-      "url": "https://www.lgdisplay.com/",
-      "startDate": "2024-03",
-      "endDate": "",
-      "summary": "Big Data Engineering & Analysis",
-      "highlights": ["Improve yield through big data analyzing"]
-    },
-    {
-      "name": "Catholic Univ. of Korea Yeouido ST.Mary’s Hospital",
-      "position": "Research Intern",
-      "url": "https://cici.cmc.or.kr/contents/bigdata_introduce",
-      "startDate": "2021-02",
-      "endDate": "2020-08",
-      "summary": "Vision & Text Big Data Processing (ML/DL)",
-      "highlights": ["Developed an automated system to extract test results from image-based result sheets using Big Data Processing techniques for AI applications", "Conducted experiments and implemented a research paper focusing on domain adaptation through the application of Generative Adversarial Networks (GANs)"]
-    },
-    {
-      "name": "KIST Europe",
-      "position": "Research Intern",
-      "url": "https://www.kist-europe.de/",
-      "startDate": "2020-02",
-      "endDate": "2020-07",
-      "summary": "Bio Vision Data Processing (DL)",
-      "highlights": ["Developed an automated system to acquire experimental data, enabling the calculation of heart rate by analyzing variations in the size of heart images across different frames", "Improved cell tracking performance by focusing on the enhancement of the U-Net layer, analyzing and optimizing the Localization component responsible for accurate cell tracking"]
-    }
-  ],
-
   "education": [
     {
       "institution": "Hanyang University",
-      "location": "Seoul, Republic of Korea",
+      "location": "Seoul, Korea",
       "url": "http://electronic.hanyang.ac.kr/",
       "area": "Electronic Engineering",
       "studyType": "Master of Science",
@@ -50,7 +19,7 @@
     },
     {
       "institution": "Hanyang University",
-      "location": "Seoul, Republic of Korea",
+      "location": "Seoul, Korea",
       "url": "http://ebe.hanyang.ac.kr",
       "area": "Electric Engineering / minor: Electronic Engineering",
       "studyType": "Bachelor of Science",
@@ -60,22 +29,36 @@
     }
   ],
 
-  "experience": [
+  "work": [
     {
-      "name": "3D Vision Lab",
-      "position": "Undergraduate internship",
-      "startDate": "2021-08",
-      "endDate": "2021-07",
-      "summary": "Object Detection for 3D Computer Vision",
-      "highlights": ["Experience in Data Cleaning and Preparation for 3D Detection Projects Using Matterport"]
+      "position": "LG Display",
+      "name": "Big Data Engineer/Analyst",
+      "location": "Paju, Gyeonggi-do",
+      "url": "https://www.lgdisplay.com/",
+      "startDate": "2024-03",
+      "endDate": "",
+      "summary": "Big Data Engineering & Analysis",
+      "highlights": ["Improve yield through big data analyzing"]
     },
     {
-      "name": "SPA Lab",
-      "position": "Undergraduate internship",
-      "startDate": "2019-03",
-      "endDate": "2020-02",
-      "summary": "Object Detection for Computer Vision",
-      "highlights": ["Deep Learning Object Detection - Self driving Car"]
+      "position": "Catholic Univ. of Korea Yeouido ST.Mary’s Hospital",
+      "name": "Research Intern",
+      "location": "Seoul, Korea",
+      "url": "https://cici.cmc.or.kr/contents/bigdata_introduce",
+      "startDate": "2021-02",
+      "endDate": "2020-08",
+      "summary": "Vision & Text Big Data Processing (ML/DL)",
+      "highlights": ["Developed an automated system to extract test results from image-based result sheets using Big Data Processing techniques for AI applications", "Conducted experiments and implemented a research paper focusing on domain adaptation through the application of Generative Adversarial Networks (GANs)"]
+    },
+    {
+      "position": "KIST Europe",
+      "name": "Research Intern",
+      "location": "Saarbrücken, Germany",
+      "url": "https://www.kist-europe.de/",
+      "startDate": "2020-02",
+      "endDate": "2020-07",
+      "summary": "Bio Vision Data Processing (DL)",
+      "highlights": ["Developed an automated system to acquire experimental data, enabling the calculation of heart rate by analyzing variations in the size of heart images across different frames", "Improved cell tracking performance by focusing on the enhancement of the U-Net layer, analyzing and optimizing the Localization component responsible for accurate cell tracking"]
     }
   ],
   
@@ -110,6 +93,45 @@
     }
   ],
 
+  "experience": [
+    {
+      "position": "3D Vision Lab",
+      "name": "Undergraduate internship",
+      "location": "SNU",
+      "startDate": "2021-08",
+      "endDate": "2021-07",
+      "summary": "Object Detection for 3D Computer Vision",
+      "highlights": ["Experience in Data Cleaning and Preparation for 3D Detection Projects Using Matterport"]
+    },
+    {
+      "position": "SPA Lab",
+      "name": "Undergraduate internship",
+      "location": "HYU",
+      "startDate": "2019-03",
+      "endDate": "2020-02",
+      "summary": "Object Detection for Computer Vision",
+      "highlights": ["Deep Learning Object Detection - Self driving Car"]
+    },
+    {
+      "position": "겨자씨 키움센터",
+      "name": "Technical Advisory Role",
+      "startDate": "2021-02",
+      "endDate": "2021-08",
+      "summary": "WARF Team",
+      "url": "https://www.youtube.com/watch?v=huxDD5R7F6s&ab_channel=%EC%B1%84%EB%84%90%EB%A8%B8%EC%8A%A4%ED%83%80%EB%93%9C",
+      "highlights": ["Obligatory recording paper Digitization Artiﬁcial intelligence learning model (module) development"]
+    },
+    {
+      "position": "Visiting U.C. Berkeley",
+      "name": "Visiting Student",
+      "location": "California, USA",
+      "startDate": "2022-06",
+      "endDate": "2022-07",
+      "summary": "",
+      "highlights": ["Design and develop the implementation of LF mutations"]
+    }
+  ],
+
   "conference": [
     {
       "name": "Attention-aware Unit toward the interpretability of single cell segmentatio",
@@ -119,13 +141,81 @@
     }
   ],
 
+  "projects": [
+    {
+      "name": "Snake Game",
+      "summary": "Undergraduate Course Project",
+      "highlights": [],
+      "startDate": "2019-10",
+      "endDate": "2019-12",
+      "url": "https://github.com/Wonseo-C/MicroProcessor"
+    },
+    {
+      "name": "Detect Kickboard with Embedded Hardware (Jetson Nano Board)",
+      "summary": "Graduate Project",
+      "highlights": [],
+      "startDate": "2021-02",
+      "endDate": "2021-11",
+      "url": "https://github.com/Wonseo-C/undergraduate_project2"
+    },
+    {
+      "name": "Untact-kiosk",
+      "summary": "Graduate Project",
+      "highlights": [],
+      "startDate": "2021-08",
+      "endDate": "2021-11",
+      "url": "https://github.com/Wonseo-C/graduation"
+    },
+
+
+    {
+      "name": "IMU Sensor Fusion for Location Tracking using Kalman Filter (MCU Board)",
+      "summary": "",
+      "highlights": [],
+      "startDate": "2022-02",
+      "endDate": "2022-03",
+      "url": ""
+    },
+    {
+      "name": "Mutation support for Lingua Franca (Reactor) with implementing Savina Benchmark",
+      "summary": "",
+      "highlights": [],
+      "startDate": "2022-04",
+      "endDate": "2022-08",
+      "url": "https://github.com/hyu-iot/lf_benchmark_choi"
+    },
+    {
+      "name": "Android App for Handwriting Number Recognition using Google ML Kit",
+      "summary": "Graduate Course Project",
+      "highlights": [],
+      "startDate": "2022-10",
+      "endDate": "2022-12",
+      "url": "https://github.com/Wonseo-C/AndroidProject"
+    },
+    {
+      "name": "Apple Watch APP for Integrating UWB Technology and advanced medical data monitoring",
+      "summary": "",
+      "highlights": [],
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "url": ""
+    },
+    {
+      "name": "Localizing System Design for UWB/IMU Tag",
+      "summary": "Patent",
+      "highlights": [],
+      "startDate": "2023-10",
+      "endDate": "2024-02",
+      "url": ""
+    }
+  ],
+
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming",
+      "icon": "fa-solid fa-laptop-code",
       "keywords": [
-        "Quantum Mechanics"
+        "Python (with PyTorch, Tensorflow, Keras), MATLAB, JAVA, R, Assembly, TypeScript, Kotlin, C++"
       ]
     }
   ],
@@ -178,73 +268,7 @@
     }
     
   ],
-  "projects": [
-    {
-      "name": "Untact-kiosk",
-      "summary": "",
-      "highlights": ["Quantum Teleportation"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://github.com/Wonseo-C/graduation"
-    },
-    {
-      "name": "Detect Kickboard with Embedded Hardware (Jetson Nano Board)",
-      "summary": "",
-      "highlights": ["Quantum Teleportation"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://github.com/Wonseo-C/undergraduate_project2"
-    },
-    {
-      "name": "Snake Game",
-      "summary": "",
-      "highlights": ["Quantum Teleportation"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://github.com/Wonseo-C/MicroProcessor"
-    },
-
-    {
-      "name": "IMU Sensor Fusion for Location Tracking using Kalman Filter (MCU Board)",
-      "summary": "",
-      "highlights": ["Quantum Teleportation"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": ""
-    },
-    {
-      "name": "Mutation support for Lingua Franca with implementing Savina Benchmark",
-      "summary": "",
-      "highlights": ["Quantum Teleportation"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://github.com/hyu-iot/lf_benchmark_choi"
-    },
-    {
-      "name": "Android App for Handwriting Number Recognition using Google ML Kit",
-      "summary": "",
-      "highlights": ["Quantum Teleportation"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://github.com/Wonseo-C/AndroidProject"
-    },
-    {
-      "name": "Apple Watch APP for Integrating UWB Technology and advanced medical data monitoring",
-      "summary": "",
-      "highlights": ["Quantum Teleportation"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": ""
-    },
-    {
-      "name": "Localizing System Design for UWB/IMU Tag",
-      "summary": "",
-      "highlights": ["Quantum Teleportation"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": ""
-    }
-  ],
+  
 
   "Teaching-assistant": [
     {
