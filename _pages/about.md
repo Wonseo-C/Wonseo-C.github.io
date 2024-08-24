@@ -18,10 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-티모를 사랑하는 남자.
+티모를 사랑하는 남자
 
-인섹팬.
+인섹팬
 
-INTP.
-
-귀살대 다람쥐.
+INTP
