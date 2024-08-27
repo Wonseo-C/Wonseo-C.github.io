@@ -43,7 +43,7 @@ padding: 5px;
 ## Conference
 * KCCV 2020 demo (Day 1)
 
-    Title :     [**Attention-aware Unet toward the interpretability of single cell segmentation**](https://kcvs.kr/front/2020_program)
+    Title :     [**Attention-aware U-Net toward the interpretability of single cell segmentation**](https://kcvs.kr/front/2020_program)
 
 
 ## Paper
