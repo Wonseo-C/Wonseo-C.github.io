@@ -2,7 +2,7 @@
   "basics": {
     "name": "Wonseo Choi",
     "label": "AI Data Engineer",
-    "email": "1202won@gmail.com",
+    "email": "1202won@naver.com",
     "summary": "LAZY Developer & Striving for Beautiful Equation"
   },
 
@@ -32,13 +32,13 @@
   "work": [
     {
       "position": "LG Display",
-      "name": "Big Data Engineer/Analyst",
+      "name": "Big Data Scientist/Engineer",
       "location": "Paju, Gyeonggi-do",
       "url": "https://www.lgdisplay.com/",
       "startDate": "2024-03",
       "endDate": "",
       "summary": "Big Data Engineering & Analysis",
-      "highlights": ["Improve yield through big data analyzing"]
+      "highlights": ["Analyze big data to improve yield.", "Develop R/Python code for Big data processing"]
     },
     {
       "position": "Catholic Univ. of Korea Yeouido ST.Mary’s Hospital",
@@ -48,17 +48,17 @@
       "startDate": "2021-02",
       "endDate": "2020-08",
       "summary": "Vision & Text Big Data Processing (ML/DL)",
-      "highlights": ["Developed an automated system to extract test results from image-based result sheets using Big Data Processing techniques for AI applications", "Conducted experiments and implemented a research paper focusing on domain adaptation through the application of Generative Adversarial Networks (GANs)"]
+      "highlights": ["Develop an automated AI system to extract test results from image-based result sheets using Big Data Processing techniques for AI applications.", "Perform experiments and implement research on domain adaptation through Generative Adversarial Networks (GANs)."]
     },
     {
       "position": "KIST Europe",
-      "name": "Research Intern",
+      "name": "Intern",
       "location": "Saarbrücken, Germany",
       "url": "https://www.kist-europe.de/",
       "startDate": "2020-02",
       "endDate": "2020-07",
       "summary": "Bio Vision Data Processing (DL)",
-      "highlights": ["Developed an automated system to acquire experimental data, enabling the calculation of heart rate by analyzing variations in the size of heart images across different frames", "Improved cell tracking performance by focusing on the enhancement of the U-Net layer, analyzing and optimizing the Localization component responsible for accurate cell tracking"]
+      "highlights": ["Develop an automated AI system to acquire experimental data, enabling heart rate calculation by analyzing size variations of heart images across frames.", "Enhance cell tracking performance by optimizing the U-Net layer and analyzing the Localization component for accurate cell tracking."]
     }
   ],
   
