@@ -145,7 +145,7 @@
     {
       "name": "Snake Game",
       "summary": "Undergraduate Course Project",
-      "highlights": [],
+      "highlights": ["Assembly Language를 활용한 snake game 개발"],
       "startDate": "2019-10",
       "endDate": "2019-12",
       "url": "https://github.com/Wonseo-C/MicroProcessor"
@@ -153,7 +153,7 @@
     {
       "name": "Detect Kickboard with Embedded Hardware (Jetson Nano Board)",
       "summary": "Graduate Project",
-      "highlights": [],
+      "highlights": ["Jetson Nano Board (Real-Time Image Detection on AI Embedded Board)","전동 킥보드에 탄 사람이 헬멧을 쓰고 있는지, 두 사람이 타고 있는지를 자동 판단 프로젝트"],
       "startDate": "2021-02",
       "endDate": "2021-11",
       "url": "https://github.com/Wonseo-C/undergraduate_project2"
@@ -161,7 +161,7 @@
     {
       "name": "Untact-kiosk",
       "summary": "Graduate Project",
-      "highlights": [],
+      "highlights": ["코로나 시절 터치하지 않고 사용하는 키오스크 개발 프로젝트"],
       "startDate": "2021-08",
       "endDate": "2021-11",
       "url": "https://github.com/Wonseo-C/graduation"
