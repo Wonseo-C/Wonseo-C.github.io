@@ -27,7 +27,7 @@ padding: 5px;
 * [**CV**](https://wonseo-c.github.io/make_cv/resume_wonseo.pdf)
 * INTP
 * [에티장](https://fow.kr/find/귀살대다람쥐)
-* Fan of INSEC
+* Fan of INSEC and FAKER
 
 ## Experience
 * LGD AI/Big Data Engineer (Mar 2024-)
