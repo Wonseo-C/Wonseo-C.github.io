@@ -9,11 +9,11 @@ const playTune = (key) => {
     audio.src = `./tunes/${key}.wav`;
     audio.play();
     
-    const clickedKey = document.querySelector(`${key}]`);
+    const clickedKey = document.querySelector(`[data-key=${key}]`);
     clickedKey.classList.add("active");
     setTimeout(() => {
         clickedKey.classList.remove("active");
-    }, 50)
+    }, 70)
 } 
 
 pianoKeys.forEach(key => {
