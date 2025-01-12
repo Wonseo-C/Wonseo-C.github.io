@@ -11,16 +11,24 @@ body {
     justify-content: center;
     min-height: 100vh;
     padding: 0 10px;
-    background: #e3f2fd;
+    background: #454242;
+}
+header h2::after {
+    content: "";
+    display: inline-block;
+    width: 50px; 
+    height: 50px; /* 이브이 이미지 높이 */
+    margin-left: 15px; /* 제목과 이미지 간격 */
+    background: url('이브이.png') no-repeat center / contain;
 }
 .wrapper {
     /* width: 780px; */
     border-radius: 20px;
     padding: 35px 40px;
-    background: #141414;
+    background: #d0a676;
 }
 .wrapper header {
-    color: #b2b2b2;
+    color: #141414;
     display: flex;
     align-items: center;
     justify-content: space-between;
