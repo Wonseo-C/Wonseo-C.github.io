@@ -130,7 +130,110 @@ header .column span {
 .piano-keys .key.hide span {
     display: none;
 }
+
+@media screen and (max-width: 1215px) {
+    .wrapper {
+        padding: 25px;
+    }
+    header {
+        flex-direction: column;
+    }
+    header :where(h2, .column) {
+        margin-bottom: 13px;
+    }
+    .volume-slider input {
+        max-width: 100px;
+    }
+    .piano-keys .black {
+        height: 100px;
+        width: 40px;
+        margin: 0 -20px 0 -20px;
+    }
+    .piano-keys .white {
+        height: 180px;
+        width: 60px;
+    }
+}
+
+@media screen and (max-width: 1015px) {
+    .piano-keys .key:nth-child(1),
+    .piano-keys .key:nth-child(2),
+    .piano-keys .key:nth-child(3),
+    .piano-keys .key:nth-child(4),
+    .piano-keys .key:nth-child(5),
+    .piano-keys .key:nth-child(6),
+    .piano-keys .key:nth-child(7)
+    /* .piano-keys .key:nth-child(8),
+    .piano-keys .key:nth-child(9),
+    .piano-keys .key:nth-child(10),
+    .piano-keys .key:nth-child(11),
+    .piano-keys .key:nth-child(12), */
+    /* .piano-keys .key:nth-child(20), */
+    /* .piano-keys .key:nth-child(21), */
+    /* .piano-keys .key:nth-child(22), */
+    /* .piano-keys .key:nth-child(23), */
+    /* .piano-keys .key:nth-child(24), */
+    /* .piano-keys .key:nth-child(25), */
+    /* .piano-keys .key:nth-child(26), */
+    /* .piano-keys .key:nth-child(27), */
+    /* .piano-keys .key:nth-child(28), */
+    /* .piano-keys .key:nth-child(29), */
+    /* .piano-keys .key:nth-child(30), */
+    /* .piano-keys .key:nth-child(31) */
+    {
+        display: none;
+    }
+    .wrapper {
+        padding: 25px;
+    }
+    header {
+        flex-direction: column;
+    }
+    header :where(h2, .column) {
+        margin-bottom: 13px;
+    }
+    .volume-slider input {
+        max-width: 100px;
+    }
+    .piano-keys .black {
+        height: 100px;
+        width: 40px;
+        margin: 0 -20px 0 -20px;
+    }
+    .piano-keys .white {
+        height: 180px;
+        width: 60px;
+    }
+}
+
+
 @media screen and (max-width: 815px) {
+    .piano-keys .key:nth-child(1),
+    .piano-keys .key:nth-child(2),
+    .piano-keys .key:nth-child(3),
+    .piano-keys .key:nth-child(4),
+    .piano-keys .key:nth-child(5),
+    .piano-keys .key:nth-child(6),
+    .piano-keys .key:nth-child(7),
+    /* .piano-keys .key:nth-child(8),
+    .piano-keys .key:nth-child(9),
+    .piano-keys .key:nth-child(10),
+    .piano-keys .key:nth-child(11),
+    .piano-keys .key:nth-child(12), */
+    /* .piano-keys .key:nth-child(20), */
+    /* .piano-keys .key:nth-child(21), */
+    /* .piano-keys .key:nth-child(22), */
+    /* .piano-keys .key:nth-child(23), */
+    /* .piano-keys .key:nth-child(24), */
+    .piano-keys .key:nth-child(25),
+    .piano-keys .key:nth-child(26),
+    .piano-keys .key:nth-child(27),
+    .piano-keys .key:nth-child(28),
+    .piano-keys .key:nth-child(29),
+    .piano-keys .key:nth-child(30),
+    .piano-keys .key:nth-child(31) {
+        display: none;
+    }
     .wrapper {
         padding: 25px;
     }
@@ -155,11 +258,30 @@ header .column span {
 }
 
 @media screen and (max-width: 615px) {
-    .piano-keys .key:nth-child(13),
-    .piano-keys .key:nth-child(14),
-    .piano-keys .key:nth-child(15),
-    .piano-keys .key:nth-child(16),
-    .piano-keys .key:nth-child(17) {
+    .piano-keys .key:nth-child(1),
+    .piano-keys .key:nth-child(2),
+    .piano-keys .key:nth-child(3),
+    .piano-keys .key:nth-child(4),
+    .piano-keys .key:nth-child(5),
+    .piano-keys .key:nth-child(6),
+    .piano-keys .key:nth-child(7),
+    /* .piano-keys .key:nth-child(8),
+    .piano-keys .key:nth-child(9),
+    .piano-keys .key:nth-child(10),
+    .piano-keys .key:nth-child(11),
+    .piano-keys .key:nth-child(12), */
+    .piano-keys .key:nth-child(20),
+    .piano-keys .key:nth-child(21),
+    .piano-keys .key:nth-child(22),
+    .piano-keys .key:nth-child(23),
+    .piano-keys .key:nth-child(24),
+    .piano-keys .key:nth-child(25),
+    .piano-keys .key:nth-child(26),
+    .piano-keys .key:nth-child(27),
+    .piano-keys .key:nth-child(28),
+    .piano-keys .key:nth-child(29),
+    .piano-keys .key:nth-child(30),
+    .piano-keys .key:nth-child(31) {
         display: none;
     }
     .piano-keys .white {
