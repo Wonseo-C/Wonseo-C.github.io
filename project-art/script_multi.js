@@ -38,9 +38,37 @@ const showHideKeys = () => {
     pianoKeys.forEach(key => key.classList.toggle("hide"))
 }
 
+// const pressedKey = (e) => {
+//     if(allKeys.includes(e.key)) playTune(e.key);
+// }
 const pressedKey = (e) => {
-    if(allKeys.includes(e.key)) playTune(e.key);
-}
+    const keyMapping = {
+        KeyA: "a",
+        KeyS: "s",
+        KeyD: "d",
+        KeyF: "f",
+        KeyG: "g",
+        KeyH: "h",
+        KeyJ: "j",
+        KeyK: "k",
+        KeyL: "l",
+        Semicolon: ";",
+        KeyW: "w",
+        KeyE: "e",
+        KeyT: "t",
+        KeyY: "y",
+        KeyU: "u",
+        KeyO: "o",
+        KeyP: "p",
+    };
+
+    if (keyMapping[e.code]) {
+        playTune(keyMapping[e.code]);
+    }
+};
+
+// 키보드 입력 이벤트 리스너
+document.addEventListener("keydown", pressedKey);
 
 keysCheckbox.addEventListener("click", showHideKeys);
 volumeSlider.addEventListener("input", handleVolume);
