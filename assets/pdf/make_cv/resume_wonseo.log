@@ -1,108 +1,107 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  5 NOV 2024 23:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.19)  27 APR 2025 15:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/1202w/workspace/Wonseo-C.github.io/assets/pdf/make_cv/resume_wonseo.tex
-(c:/Users/1202w/workspace/Wonseo-C.github.io/assets/pdf/make_cv/resume_wonseo.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
-(./resume.cls
+**/Users/wonseo/Workspace/Wonseo-C.github.io/assets/pdf/make_cv/resume_wonseo.tex
+(/Users/wonseo/Workspace/Wonseo-C.github.io/assets/pdf/make_cv/resume_wonseo.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (./resume.cls
 Document Class: resume 2022/12/17 v3.0 Resume class
-(c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(c:/texlive/2023/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@section=\count188
-\c@subsection=\count189
-\c@subsubsection=\count190
-\c@paragraph=\count191
-\c@subparagraph=\count192
-\c@figure=\count193
-\c@table=\count194
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
-) (c:/texlive/2023/texmf-dist/tex/latex/parskip/parskip.sty
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
- (c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-) (c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count195
-)) (c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
-Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen141
-\ar@mcellbox=\box51
-\extrarowheight=\dimen142
-\NC@list=\toks18
-\extratabsurround=\skip50
-\backup@length=\skip51
-\ar@cellbox=\box52
-) (c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+\etb@tempcnta=\count193
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box50
+\extrarowheight=\dimen140
+\NC@list=\toks17
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box51
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen143
-\Gin@req@width=\dimen144
-) (c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count196
-\Gm@cntv=\count197
-\c@Gm@tempcnt=\count198
-\Gm@bindingoffset=\dimen145
-\Gm@wd@mp=\dimen146
-\Gm@odd@mp=\dimen147
-\Gm@even@mp=\dimen148
-\Gm@layoutwidth=\dimen149
-\Gm@layoutheight=\dimen150
-\Gm@layouthoffset=\dimen151
-\Gm@layoutvoffset=\dimen152
-\Gm@dimlist=\toks19
-)) (c:/texlive/2023/texmf-dist/tex/latex/ebgaramond/ebgaramond.sty
-Package: ebgaramond 2022/09/10 (Bob Tennent and autoinst) Style file for EB Garamond fonts.
- (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks18
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/ebgaramond/ebgaramond.sty
+Package: ebgaramond 2020/04/12 (Bob Tennent and autoinst) Style file for EB Garamond fonts.
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (c:/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks20
-\XKV@tempa@toks=\toks21
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
 )
-\XKV@depth=\count199
+\XKV@depth=\count197
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (c:/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
+)) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (c:/texlive/2023/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -115,23 +114,23 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-LaTeX Info: Redefining \oldstylenums on input line 161.
-LaTeX Info: Redefining \textsw on input line 169.
-) (c:/texlive/2023/texmf-dist/tex/latex/cjk-ko/kotex.sty
+LaTeX Info: Redefining \oldstylenums on input line 179.
+LaTeX Info: Redefining \textsw on input line 187.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk-ko/kotex.sty
 Package: kotex 2015/04/19 v1.6 Korean TeX (ko.TeX)
- (c:/texlive/2023/texmf-dist/tex/latex/kotex-utf/kotex.cfg) (c:/texlive/2023/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
-Package: kotexutf 2022/06/22 v3.0.0 typesetting UTF-8 Korean documents
- (c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/kotex-utf/kotex.cfg) (/usr/local/texlive/2022/texmf-dist/tex/latex/kotex-utf/kotexutf.sty
+Package: kotexutf 2015/07/18 v2.1.1 typesetting UTF-8 Korean documents
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks22
-\inpenc@posthook=\toks23
-) (c:/texlive/2023/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
-\unih@ngulpoint=\count266
-\dhucs@emph@raise=\dimen153
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) (/usr/local/texlive/2022/texmf-dist/tex/plain/kotex-plain/kotexutf-core.tex
+\unih@ngulpoint=\count198
+\dhucs@emph@raise=\dimen151
 )
 Now handling font encoding LUC ...
 ... processing UTF-8 mapping file for font encoding LUC
- (c:/texlive/2023/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/kotex-utf/lucenc.dfu
 File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
    defining Unicode char U+00B7 (decimal 183)
    defining Unicode char U+2018 (decimal 8216)
@@ -179,21 +178,23 @@ File: lucenc.dfu 2007/09/05 UTF-8 support for dhucs
    defining Unicode char U+FF64 (decimal 65380)
    defining Unicode char U+FF65 (decimal 65381)
 )
-\@josa=\count267
-\josatoks=\toks24
- (c:/texlive/2023/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
+\@josa=\count199
+\josatoks=\toks23
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
 Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
 )))
 LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-OsF on input line 48.
- (c:/texlive/2023/texmf-dist/tex/latex/ebgaramond/OT1EBGaramond-OsF.fd
-File: OT1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for OT1/EBGaramond-OsF.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/ebgaramond/OT1EBGaramond-OsF.fd
+File: OT1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for OT1/EBGaramond-OsF.
 )
-LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' will be
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <10.95> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
 (Font)              scaled to size 10.95pt on input line 48.
- (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count268
-\l__pdf_internal_box=\box53
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box52
 ) (./resume_wonseo.aux)
 \openout1 = `resume_wonseo.aux'.
 
@@ -213,27 +214,27 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 48.
 LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 48.
- (c:/texlive/2023/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
 LaTeX Font Info:    ... okay on input line 48.
- (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count269
-\scratchdimen=\dimen154
-\scratchbox=\box54
-\nofMPsegments=\count270
-\nofMParguments=\count271
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count272
-\MPscratchDim=\dimen155
-\MPnumerator=\count273
-\makeMPintoPDFobject=\count274
-\everyMPtoPDFconversion=\toks26
-) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count267
+\scratchdimen=\dimen152
+\scratchbox=\box53
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen153
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 *geometry* driver: auto-detecting
@@ -270,11 +271,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count275
-\c@mv@boldtabular=\count276
-LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' will be
+\c@mv@tabular=\count273
+\c@mv@boldtabular=\count274
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <20.74> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
 (Font)              scaled to size 20.74pt on input line 48.
-LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' will be
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <20.74> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 48.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
 (Font)              scaled to size 20.74pt on input line 48.
 
 Overfull \hbox (30.0pt too wide) in paragraph at lines 48--48
@@ -286,9 +291,13 @@ File: ../../img/2.jpg Graphic file (type jpg)
 <use ../../img/2.jpg>
 Package pdftex.def Info: ../../img/2.jpg  used on input line 52.
 (pdftex.def)             Requested size: 166.94463pt x 222.79625pt.
-LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' will be
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 59.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
 (Font)              scaled to size 10.95pt on input line 59.
-LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' will be
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 60.
+LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/it' will be
 (Font)              scaled to size 10.95pt on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 61.
@@ -298,39 +307,34 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 61.
 [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_qn2lct.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ne3tkd.enc} <../../img/2.jpg>]
-Overfull \hbox (1.64796pt too wide) in paragraph at lines 128--129
-[]\OT1/EBGaramond-OsF/m/n/10.95 Perform ex-per-i-ments and im-ple-ment re-search on do-main adap-ta-tion through Gen-er-a-tive Ad-ver-sar-ial Net-works (GANs). 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../../img/2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 164--168
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
+Underfull \hbox (badness 10000) in paragraph at lines 164--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--168
 
  []
 
 LaTeX Font Info:    Font shape `LUC/nanummj/b/n' in size <10.95> not available
-(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 179.
-[2] [3] (./resume_wonseo.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
- ***********
- ) 
+(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 180.
+[2] [3] (./resume_wonseo.aux) ) 
 Here is how much of TeX's memory you used:
- 4112 strings out of 474166
- 69041 string characters out of 5749518
- 1935542 words of memory out of 5000000
- 26351 multiletter control sequences out of 15000+600000
- 569806 words of font info for 57 fonts, out of 8000000 for 9000
+ 4136 strings out of 478268
+ 71751 string characters out of 5846347
+ 370680 words of memory out of 5000000
+ 22273 multiletter control sequences out of 15000+600000
+ 480964 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,79p,570b,276s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb>
-Output written on resume_wonseo.pdf (3 pages, 361517 bytes).
+ 70i,6n,76p,569b,272s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tsrvmb.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fc2mbn.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb>
+Output written on resume_wonseo.pdf (3 pages, 596312 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream

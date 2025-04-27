@@ -38,7 +38,9 @@
       "startDate": "2024-03",
       "endDate": "",
       "summary": "Big Data Engineering & Analysis",
-      "highlights": ["Analyze big data to improve yield.", "Develop R/Python code for Big data processing"]
+      "highlights": ["Analyze big data to improve manufacturing yield.", 
+                      "Develop R/Python code for Big Data processing.", 
+                      "Develop and deploy machine learning models and systems for yield prediction."]
     },
     {
       "position": "Catholic Univ. of Korea Yeouido ST.Mary’s Hospital",
@@ -48,7 +50,8 @@
       "startDate": "2021-02",
       "endDate": "2020-08",
       "summary": "Vision & Text Big Data Processing (ML/DL)",
-      "highlights": ["Develop an automated AI system to extract test results from image-based result sheets using Big Data Processing techniques for AI applications.", "Perform experiments and implement research on domain adaptation through Generative Adversarial Networks (GANs)."]
+      "highlights": ["Developed an automated AI system to extract test results from image-based sheets using Big Data techniques.", 
+                      "Conducted experiments and research on domain adaptation using Generative Adversarial Networks (GANs)."]
     },
     {
       "position": "KIST Europe",
@@ -58,7 +61,8 @@
       "startDate": "2020-02",
       "endDate": "2020-07",
       "summary": "Bio Vision Data Processing (DL)",
-      "highlights": ["Develop an automated AI system to acquire experimental data, enabling heart rate calculation by analyzing size variations of heart images across frames.", "Enhance cell tracking performance by optimizing the U-Net layer and analyzing the Localization component for accurate cell tracking."]
+      "highlights": ["Developed an automated AI system for heart rate calculation by analyzing size variations in heart images across frames.", 
+                      "Enhanced cell tracking performance by optimizing the U-Net layer and analyzing localization components."]
     }
   ],
   
@@ -96,21 +100,25 @@
   "experience": [
     {
       "position": "3D Vision Lab",
-      "name": "Undergraduate internship",
+      "name": "Undergraduate Internship",
       "location": "SNU",
       "startDate": "2021-08",
       "endDate": "2021-07",
       "summary": "Object Detection for 3D Computer Vision",
-      "highlights": ["Experience in Data Cleaning and Preparation for 3D Detection Projects Using Matterport"]
+      "highlights": [
+        "Experienced in data cleaning and preparation for 3D detection projects using Matterport"
+      ]
     },
     {
       "position": "SPA Lab",
-      "name": "Undergraduate internship",
+      "name": "Undergraduate Internship",
       "location": "HYU",
       "startDate": "2019-03",
       "endDate": "2020-02",
       "summary": "Object Detection for Computer Vision",
-      "highlights": ["Deep Learning Object Detection - Self driving Car"]
+      "highlights": [
+        "Developed deep learning-based object detection models for self-driving car applications"
+      ]
     },
     {
       "position": "겨자씨 키움센터",
@@ -119,7 +127,9 @@
       "endDate": "2021-08",
       "summary": "WARF Team",
       "url": "https://www.youtube.com/watch?v=huxDD5R7F6s&ab_channel=%EC%B1%84%EB%84%90%EB%A8%B8%EC%8A%A4%ED%83%80%EB%93%9C",
-      "highlights": ["Obligatory recording paper Digitization Artiﬁcial intelligence learning model (module) development"]
+      "highlights": [
+        "Developed an artificial intelligence learning module for digitizing obligatory recording papers"
+      ]
     },
     {
       "position": "Visiting U.C. Berkeley",
@@ -128,7 +138,9 @@
       "startDate": "2022-06",
       "endDate": "2022-07",
       "summary": "",
-      "highlights": ["Design and develop the implementation of LF mutations"]
+      "highlights": [
+        "Designed and developed the implementation of Lingua Franca mutations"
+      ]
     }
   ],
 
@@ -145,7 +157,9 @@
     {
       "name": "Snake Game",
       "summary": "Undergraduate Course Project",
-      "highlights": ["Snake Game Development Using Assembly Language"],
+      "highlights": [
+        "Developed a Snake game using Assembly language"
+      ],
       "startDate": "2019-10",
       "endDate": "2019-12",
       "url": "https://github.com/Wonseo-C/MicroProcessor"
@@ -153,7 +167,10 @@
     {
       "name": "Detect Kickboard with Embedded Hardware (Jetson Nano Board)",
       "summary": "Graduate Project",
-      "highlights": ["Jetson Nano Board (Real-Time Image Detection on AI Embedded Board)","Automated Detection of Helmet Usage and Multiple Riders on Electric Scooters"],
+      "highlights": [
+        "Implemented real-time image detection on an AI-embedded board (Jetson Nano)",
+        "Automated detection of helmet usage and multiple riders on electric scooters"
+      ],
       "startDate": "2021-02",
       "endDate": "2021-11",
       "url": "https://github.com/Wonseo-C/undergraduate_project2"
@@ -161,7 +178,9 @@
     {
       "name": "Untact-kiosk",
       "summary": "Graduate Project",
-      "highlights": ["Touchless Kiosk Development for COVID-19"],
+      "highlights": [
+        "Developed a touchless kiosk system for COVID-19 prevention"
+      ],
       "startDate": "2021-08",
       "endDate": "2021-11",
       "url": "https://github.com/Wonseo-C/graduation"
@@ -276,7 +295,7 @@
       "level": "",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Generating Random Variables based on Probability distributions using MATLAB"
+        "Generated random variables based on probability distributions using MATLAB."
       ]
     },
     {
@@ -284,7 +303,7 @@
       "level": "",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Basic Algorithm for Computer Network using MATLAB"
+        "Implemented basic algorithms for computer networks using MATLAB."
       ]
     }
   ],
