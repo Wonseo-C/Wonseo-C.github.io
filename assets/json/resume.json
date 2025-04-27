@@ -40,7 +40,7 @@
       "summary": "Big Data Engineering & Analysis",
       "highlights": ["Analyze big data to improve manufacturing yield.", 
                       "Develop R/Python code for Big Data processing.", 
-                      "Develop and deploy machine learning models and systems for yield prediction."]
+                      "Develop and deploy Machine Learning models and systems for yield prediction."]
     },
     {
       "position": "Catholic Univ. of Korea Yeouido ST.Mary’s Hospital",
@@ -51,7 +51,7 @@
       "endDate": "2020-08",
       "summary": "Vision & Text Big Data Processing (ML/DL)",
       "highlights": ["Developed an automated AI system to extract test results from image-based sheets using Big Data techniques.", 
-                      "Conducted experiments and research on domain adaptation using Generative Adversarial Networks (GANs)."]
+                      "Conducted experiments and research on domain adaptation using Generative Adversarial Networks (GANs), with a focus on 3D segmentation tasks for orbital tumor delineation."]
     },
     {
       "position": "KIST Europe",
@@ -61,8 +61,8 @@
       "startDate": "2020-02",
       "endDate": "2020-07",
       "summary": "Bio Vision Data Processing (DL)",
-      "highlights": ["Developed an automated AI system for heart rate calculation by analyzing size variations in heart images across frames.", 
-                      "Enhanced cell tracking performance by optimizing the U-Net layer and analyzing localization components."]
+      "highlights": ["Developed an automated AI system for heart rate calculation through biomedical image processing, analyzing size variations in sequential heart images.", 
+                      "Enhanced cell tracking performance by leveraging Explainable AI (XAI) techniques to analyze and optimize individual U-Net layers with respect to localization performance."]
     }
   ],
   
@@ -196,7 +196,7 @@
       "url": ""
     },
     {
-      "name": "Mutation support for Lingua Franca (Reactor) with implementing Savina Benchmark",
+      "name": "Supporting Mutation in Lingua Franca (Reactor) with the Implementation of the Savina Benchmark",
       "summary": "",
       "highlights": [],
       "startDate": "2022-04",
