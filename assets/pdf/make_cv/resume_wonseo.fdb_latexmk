@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1745758458 "/Users/wonseo/Workspace/Wonseo-C.github.io/assets/pdf/make_cv/resume_wonseo.tex" "resume_wonseo.pdf" "resume_wonseo" 1745758458
+["pdflatex"] 1745763013 "/Users/wonseo/Workspace/Wonseo-C.github.io/assets/pdf/make_cv/resume_wonseo.tex" "resume_wonseo.pdf" "resume_wonseo" 1745763013
   "../../img/2.jpg" 1736587275 80549 024448a39af041ee8b01e3db5fb5b534 ""
-  "/Users/wonseo/Workspace/Wonseo-C.github.io/assets/pdf/make_cv/resume_wonseo.tex" 1745758457 8963 9f46ff889ca17d502710dd322ef3307c ""
+  "/Users/wonseo/Workspace/Wonseo-C.github.io/assets/pdf/make_cv/resume_wonseo.tex" 1745763012 8963 adac452510dd05424b0dba8f28e832e6 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fc2mbn.enc" 1571867360 2970 89c5318a47449b4215340e7a37f35279 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tsrvmb.enc" 1571867360 2994 28362530a7f06bca5daa08a5e64a433b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -82,8 +82,8 @@
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1658272132 2826439 3a78aab59e6ec0cda276e1390d9a2d88 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
   "resume.cls" 1736587275 6088 430b503d863c9c05e37b31fbac2ad21a ""
-  "resume_wonseo.aux" 1745758458 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
-  "resume_wonseo.tex" 1745758457 8963 9f46ff889ca17d502710dd322ef3307c ""
+  "resume_wonseo.aux" 1745763013 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "resume_wonseo.tex" 1745763012 8963 adac452510dd05424b0dba8f28e832e6 ""
   (generated)
   "resume_wonseo.aux"
   "resume_wonseo.log"
