@@ -234,7 +234,7 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  # - FAQ.md
+  - FAQ.md
   - Gemfile
   - Gemfile.lock
   - INSTALL.md
