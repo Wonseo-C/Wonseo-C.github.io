@@ -12,32 +12,32 @@ let audioElements = {};
 
 // const audio = new Audio();
 
-const playMelody = (melody) => {
-    let index = 0;
+// const playMelody = (melody) => {
+//     let index = 0;
 
-    const playNote = () => {
-        if (index < melody.length) {
-            // 새로 생성된 Audio 객체로 음을 재생
-            const newAudio = new Audio(`./tunes2/${melody[index]}.mp3`);
-            newAudio.play(); // 음을 바로 재생
+//     const playNote = () => {
+//         if (index < melody.length) {
+//             // 새로 생성된 Audio 객체로 음을 재생
+//             const newAudio = new Audio(`./tunes2/${melody[index]}.mp3`);
+//             newAudio.play(); // 음을 바로 재생
             
-            // 다음 음을 재생하기 위해 index 증가
-            index++;
+//             // 다음 음을 재생하기 위해 index 증가
+//             index++;
 
-            // 간격을 두고 계속해서 음을 재생 (자연스럽게 연속적으로)
-            if (index < melody.length) {
-                if (index%3 == 0) {
-                    setTimeout(playNote, 1500);
-                } else {
-                    setTimeout(playNote, 950); // 각 음표 간 간격 (500ms)
-                }
-                // setTimeout(playNote, 1500); // 1500ms 후 다음 음
-            }
-        }
-    };
+//             // 간격을 두고 계속해서 음을 재생 (자연스럽게 연속적으로)
+//             if (index < melody.length) {
+//                 if (index%3 == 0) {
+//                     setTimeout(playNote, 1500);
+//                 } else {
+//                     setTimeout(playNote, 950); // 각 음표 간 간격 (500ms)
+//                 }
+//                 // setTimeout(playNote, 1500); // 1500ms 후 다음 음
+//             }
+//         }
+//     };
 
-    playNote(); // 첫 번째 음부터 시작
-};
+//     playNote(); // 첫 번째 음부터 시작
+// };
 
 
 // 특정 멜로디 정의
