@@ -49,9 +49,9 @@ const melody = ["d","g","h",
                 ";","l","h","g","d"];
 
 // 페이지 로드 시 멜로디 재생
-window.addEventListener("load", () => {
-    playMelody(melody);
-});
+// window.addEventListener("load", () => {
+//     playMelody(melody);
+// });
 
 const playTune = (key) => {
     if (!audioElements[key]) {
