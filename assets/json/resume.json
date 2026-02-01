@@ -38,9 +38,10 @@
       "startDate": "2024-03",
       "endDate": "",
       "summary": "Big Data Engineering & Analysis",
-      "highlights": ["Analyze big data to improve manufacturing yield.", 
-                      "Develop R/Python code for Big Data processing.", 
-                      "Develop and deploy Machine Learning models and systems for yield prediction."]
+      "highlights": ["Re-architected an automated analysis system from R to Python (Polars), optimizing data processing speed and system stability.",
+                      "Established an end-to-end MLOps pipeline for auto-tuning systems to automate model deployment and ensure production quality.",
+                      "Developed and deployed ML-based yield prediction models, leveraging big data to enhance manufacturing efficiency.",
+                      "Optimized large-scale data processing workflows using R and Python to identify and mitigate yield loss factors."]
     },
     {
       "position": "Catholic Univ. of Korea Yeouido ST.Mary’s Hospital",
