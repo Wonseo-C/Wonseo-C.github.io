@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  22 MAR 2026 21:52
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.19)  1 FEB 2026 19:40
->>>>>>> b6d9e0e92333e540a0cad0576f2d930e971df8eb
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  22 MAR 2026 21:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -302,20 +298,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 61.
 [1
 
-<<<<<<< HEAD
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_qn2lct.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/ebgaramond/ebg_ne3tkd.enc} <../../img/2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 159--161
-=======
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../../img/2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 169--171
->>>>>>> b6d9e0e92333e540a0cad0576f2d930e971df8eb
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
 
  []
 
 [2]
 LaTeX Font Info:    Font shape `LUC/nanummj/b/n' in size <10.95> not available
-<<<<<<< HEAD
-(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 180.
+(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 189.
  [3] (./resume_wonseo.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -331,21 +321,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,6n,79p,570b,276s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb>
-Output written on resume_wonseo.pdf (3 pages, 362659 bytes).
-=======
-(Font)              Font shape `LUC/nanummj/bx/n' tried instead on input line 190.
- [3] (./resume_wonseo.aux) ) 
-Here is how much of TeX's memory you used:
- 4136 strings out of 478268
- 71751 string characters out of 5846347
- 371680 words of memory out of 5000000
- 22273 multiletter control sequences out of 15000+600000
- 480964 words of font info for 49 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 70i,6n,76p,569b,272s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tsrvmb.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fc2mbn.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb>
-Output written on resume_wonseo.pdf (3 pages, 598770 bytes).
->>>>>>> b6d9e0e92333e540a0cad0576f2d930e971df8eb
+Output written on resume_wonseo.pdf (3 pages, 363180 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
